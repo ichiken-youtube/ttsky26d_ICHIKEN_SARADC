@@ -2,7 +2,7 @@
 project:
   title:        "ICHIKEN's SAR-ADC"      # Project title
   author:       "ICHIKEN"      # Your name
-  discord:      "ICHIKEN"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      "ichiken_youtube"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "ICHIKEN's SAR-ADC"      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
